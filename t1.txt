@@ -20,3 +20,5 @@ dev branch
  color
  branch
  
+Inserted new line in dev1 branch
+
